@@ -62,7 +62,7 @@ int main(){
     }else{
         printf("Você não tem direito ao benefício\n");
     }
-*/
+
     // Verificar se um número é positivo, negativo ou zero. Se for positivo verificar se é par ou ímpar (trabalhar tanto com estrutura de decisão encadeada e aninhada)
 
     int numero;
